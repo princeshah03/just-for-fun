@@ -1,0 +1,20 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "i am learning backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "and",
+    "me"
+  ],
+  "author": "Prince shah",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
